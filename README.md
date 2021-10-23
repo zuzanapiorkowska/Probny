@@ -47,7 +47,7 @@ Supervised by Tomasz Budrewicz (fullstack engineer with 15 years of experiance)*
 #### Front-end
 - Javascript (middle)
 - jQuery (basic)
-- HTML, CSS
+- HTML, CSS, Bootstrap
 
 #### Back-end
 - express.js (basic)
@@ -57,13 +57,34 @@ Supervised by Tomasz Budrewicz (fullstack engineer with 15 years of experiance)*
 - Bash (basic)
 - Git (basic)
 
-## Known technologies and others
-- TDD, 
-- KISS, DRY
-- REST
-- NPM
-- Bootstrap
+## Skills + future skills 
 
+  | skill        | current level          
+  |--------------|---------------------  
+  | javascript   | basic              
+  | typescript   | 0              
+  | jQuery       | 1
+  | css          | basic
+  | SASS         | 0
+  | Bootstrap    | basic
+  | React        | 0
+  | Angular      | 0
+  | TDD          | 0                
+  | e2e          | 0
+  | git          | basic (single mate) 
+  | REST         | 5 
+  | Sockets      | 0
+  | JWT, OAuth   | 0
+  | regex        | 0 
+  | npm          | 3 
+  | deploy       | github pages 
+  | ci/cd        | 0
+  | docker       | 0
+  | http clients | Postman
+  | work tracks  | Trello
+  | graphic      | GIMP
+  | SOLID        | 2
+  
 ## Work history
  
 - 09.2021 - till now - **SpecTeam** (Spying gadgets)  
