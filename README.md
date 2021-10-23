@@ -34,8 +34,8 @@
 **Frontend Junior Developer** with 0.5 years of general experience (over 3 months commercial)  
  
 *Specialized in web technologies, based on Javascript, HTML and CSS.  
-Working for 1 company so far.
-Supervised by Tomasz Budrewicz, fullstack developer with 15 years of experiance*
+Working for 1 company so far as Junior Frontend Developer.  
+Supervised by Tomasz Budrewicz (fullstack engineer with 15 years of experiance)*
 
 - 668-452-294
 - napiorkowskaz@gmail.com
@@ -79,7 +79,9 @@ Supervised by Tomasz Budrewicz, fullstack developer with 15 years of experiance*
 - Books:
   - ...
   - ...
-- online
+- Udemy
+  - ...
+  - ...
 - WarsawJS workshops
 
 ## Languages
