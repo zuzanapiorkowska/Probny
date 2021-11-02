@@ -1,35 +1,4 @@
-  
-  | skill        | level      |         
-  |--------------|---------------------|
-  | javascript   | junior|
-  | typescript   | none                |
-  | jQuery       | none|
-  | css | |
-  | SASS | |
-  | Bootstrap | | 
-  | React        | none|
-  | Redux, MobX, RxJS|
-  | Angular      | none|
-  | Other F.     | none|
-  | TDD          | none                | 
-  | e2e          |
-  | git          | basic (single mate) |
-  | REST |
-  | Sockets | 
-  | JWT, OAuth | 
-  | regex|
-  | npm | 
-  | deploy | github pages |
-  | ci/cd | none
-  | docker | none
-  | http clients | Postman
-  | work trackers | Trello
-  | graphic     | GIMP
-  | SOLID | 20% 
-  
-  
-  --------------------------------------
- 
+
 # Zuzanna Napiórkowska
 **Frontend Junior Developer** with 0.5 years of general experience (over 3 months commercial)  
  
@@ -65,17 +34,17 @@ Supervised by Tomasz Budrewicz (fullstack engineer with 15 years of experiance)*
   | typescript   | ◼                     | types, access specifiers, interfaces
   | patterns     | theoretical            | DI, singleton, strategy, factory, event emitter
   | jQuery       | ◼◽◽◽◽                 | $
-  | css          | basic                  | flex, grid ...
+  | CSS          | basic                  | flex, grid ...
   | SASS         | 0                      | variables
-  | Bootstrap    | basic                  | columns, icons
+  | Css frameworks | less than basic      |  Bootstrap: columns, icons
   | Frontend frameworks | know they exist | Heard of React and Angular, never try it
   | TDD          | 0                      | jest 
-  | e2e          | 0
-  | git          | basic (single mate) 
-  | REST         | 5                      | http, json, serialization, methods, urls, params, cors ~~sockets~~
+  | e2e          | 0                      |
+  | git          | basic (single mate)    | clone, pull, push, commit, reset
+  | REST         | 5                      | http, json, serialization, methods, urls, params, cors
   | Sockets      | 0
   | JWT, OAuth   | 0
-  | npm          | 3                      | install, unlink, list, run, dep vs dev-dep         
+  | npm          | 3                      | install, unlink, list, run, dep vs dev-dep, versioning, typings         
   | ci/cd        | github pages  
   | docker       | 0
   | http clients | Postman
